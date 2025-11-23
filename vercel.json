@@ -5,11 +5,11 @@
       "has": [
         { "type": "host", "value": "iros.my" }
       ],
-      "destination": "/index.html"
+      "destination": "/index2.html"
     },
     { 
       "source": "/", 
-      "destination": "/index2.html" 
+      "destination": "/index1.html" 
     },
     { 
       "source": "/1", 
