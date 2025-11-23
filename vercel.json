@@ -3,7 +3,11 @@
     {
       "source": "/",
       "has": [
-        { "type": "host", "value": "iros.my" }
+        {  
+          "type": "header",
+          "key": "host",
+          "value": "^(www\\.)?iros\\.my$"
+        }
       ],
       "destination": "/index2.html"
     },
