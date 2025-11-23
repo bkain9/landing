@@ -7,6 +7,16 @@
     {
       "source": "/2",
       "destination": "/index2.html"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "iros.my"
+        }
+      ],
+      "destination": "/2"
     }
   ]
 }
