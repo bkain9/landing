@@ -5,8 +5,7 @@
       "has": [
         { "type": "host", "value": "iros.my" }
       ],
-      "destination": "/index2.html",
-      "permanent": true
+      "destination": "/index2.html"
     },
     { 
       "source": "/1", 
